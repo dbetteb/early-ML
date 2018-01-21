@@ -11,3 +11,22 @@ Simple and step-by-step. One goal of `early-ML` is to show how to use some class
 
 Depending on your Python level, best is to start to have a look at the organisation of the repository and pick the subject you are interested.
 
+## Use
+
+Start with cloning the repository
+
+```bash
+git clone https://github.com/dbetteb/early-ML.git
+```
+
+and then go to `early-ML` folder and jump to the subjects you want to get trained to.
+
+## Installation
+
+You should have a Python 3.5+ installation working with the following packages
+- numpy, scipy
+- pandas
+- scikit-learn
+- ipython
+- jupyter
+- plotly
