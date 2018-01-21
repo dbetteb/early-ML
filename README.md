@@ -24,9 +24,19 @@ and then go to `early-ML` folder and jump to the subjects you want to get traine
 ## Installation
 
 You should have a Python 3.5+ installation working with the following packages
-- numpy, scipy
-- pandas
-- scikit-learn
-- ipython
-- jupyter
-- plotly
+- `numpy, scipy`
+- `pandas`
+- `scikit-learn`
+- `ipython`
+- `jupyter`
+- `plotly`
+
+## Why `early-ML` ?
+
+There exists tons of training on Machine Learning with Python. However this ones focuses on early principles and explaination behind the scene. Many people figure they understand Gradient Boosted Machines for instance since they use `xgboost` but they do not know about the machinery and the algorithms. `early-ML` will let you figure out about the algorithms !
+
+
+## Links
+
+
+
