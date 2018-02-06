@@ -9,7 +9,7 @@ Simple and step-by-step. One goal of `early-ML` is to show how to use some class
 
 ## Organization
 
-Depending on your Python level, best is to start to have a look at the organisation of the repository and pick the subject you are interested.
+Depending on your Python level, best is to start to have a look at the organisation of the repository and pick the subject you are interested in.
 
 ## Use
 
@@ -33,7 +33,7 @@ You should have a Python 3.5+ installation working with the following packages
 
 ## Why `early-ML` ?
 
-There exists tons of training on Machine Learning with Python. However this ones focuses on early principles and explaination behind the scene. Many people figure they understand Gradient Boosted Machines for instance since they use `xgboost` but they do not know about the machinery and the algorithms. `early-ML` will let you figure out about the algorithms !
+There exists tons of training on Machine Learning with Python. However this ones focuses on early principles and explaination behind the scene. Many people figure they understand Gradient Boosted Machines for instance since they obtain good results with `xgboost` package for instance but they do not know about the machinery and the algorithms behind. `early-ML` will let you figure out about the algorithms !
 
 
 ## Links
