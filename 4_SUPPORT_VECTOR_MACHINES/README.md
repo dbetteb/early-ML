@@ -8,3 +8,13 @@ Get acquainted with the founding principles of SVM :
 * with kernel-based SVM
 
 ## Linearly separable Data
+
+In practice, you do not know which SVM to use beforehand. However, here are some guidelines to help you choose :
+* linear SVM can handle quite large data sets (especially in text processing)
+* kernel-based SVM become quite expensive to compute for large data sets. Essentially because their setting require to compute the kernel dot-like product for each observation with respect to all the others. This matrix is the same size as the number of observations.
+
+In practice, it is often recommended to start with linear SVM with CV estimation of best regularization parameter $C$. In case, target accuracy is not reached switch to kernel SVM, start with RBF kernel settings of parameter \gamma.
+
+## Kernel based SVM
+
+It is usually recommended to start with default settings of kernels. Typically, `scikit-learn` starts with C=1 and an automatic rule to set \gamma parameter.
