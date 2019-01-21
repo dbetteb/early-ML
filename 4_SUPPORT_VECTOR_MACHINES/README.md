@@ -7,6 +7,8 @@ Get acquainted with the founding principles of SVM :
 * for non linearly separable data
 * with kernel-based SVM
 
+Ressources on setting hyperparameters for SVM [here](https://www.csie.ntu.edu.tw/~cjlin/libsvm)
+
 ## Linearly separable Data
 
 In practice, you do not know which SVM to use beforehand. However, here are some guidelines to help you choose :
