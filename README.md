@@ -1,4 +1,6 @@
 # early-ML
+General Machine Learning.
+
 A Python step-by-step primer for Machine Learning and Optimization
 
 This `github` repository gathers `python` language training for Machine Learning and Optimization from basics of Python programming to Deep Learning.
