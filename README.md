@@ -1,5 +1,5 @@
 # early-ML
-General Machine Learning.
+General Machine Learning tutorials
 
 A Python step-by-step primer for Machine Learning and Optimization
 
@@ -21,7 +21,7 @@ Start with cloning the repository
 git clone https://github.com/dbetteb/early-ML.git
 ```
 
-and then go to `early-ML` folder and jump to the subjects you want to get trained to.
+and then go to `early-ML` folder and jump on the subjects you want to get trained to.
 
 ## Installation
 
