@@ -1,8 +1,11 @@
 # early-ML
 
-## Presntation
+## Presentation
 
-General Machine Learning tutorials
+General Machine Learning tutorials to understand a bit better what is under the hood even for simple models.
+Talking about simple models, think about the simplest ones: Linear Models, ever heard about Total Least Squares ? Leverages ?
+Know what optimization solver does not natively work for multi-class output for logistic regression in scikit learn ? It not, this
+intro could be a good fit (if you read French !)
 
 A Python step-by-step primer for Machine Learning and Optimization
 
