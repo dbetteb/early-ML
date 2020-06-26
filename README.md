@@ -1,6 +1,6 @@
 # early-ML
 
-## Presntation
+## Presentation
 
 General Machine Learning tutorials
 
