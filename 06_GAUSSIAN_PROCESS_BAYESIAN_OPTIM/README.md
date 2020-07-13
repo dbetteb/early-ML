@@ -9,3 +9,4 @@ Bayesian Optimization with Gaussian Process.
 
 ## Bayesian Optimization
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dbetteb/early-ML/blob/master/06_GAUSSIAN_PROCESS_BAYESIAN_OPTIM/Tutorial_BO.ipynb#scrollTo=lyRM9R-bXTQd)
