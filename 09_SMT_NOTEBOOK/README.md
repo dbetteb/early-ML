@@ -11,4 +11,4 @@ Some other tutorials dedicated to noisy data or mixed integer data can be found 
 
 ## Multi-Fidelity Gaussian Process 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/dbetteb/early-ML/blob/master/09_SMT_NOTEBOOK/SMT_MFK_tutorial%20.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/dbetteb/early-ML/blob/master/09_SMT_NOTEBOOK/SMT_MFK_tutorial.ipynb)
