@@ -1,6 +1,6 @@
 # Support Vector Machines tutorial
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dbetteb/early-ML/blob/master/04_SUPPORT_VECTOR_MACHINES/SVM.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dbetteb/early-ML/blob/master/04_SUPPORT_VECTOR_MACHINES/SVM_english.ipynb)
 
 ## Objectives
 
