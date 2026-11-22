@@ -1,6 +1,6 @@
 # DEEP LEARNING
 
-Definition of the lab given in the pdf file  (TP2-DL-Ensai.pdf and TP4_GAN.pdf)
+Definition of the lab given in the pdf file  (TP2-DL-Ensai.pdf and TP4_GAN.pdf) + notebook time series prediction
 
 ##  Convolutional Neural Networks - CNN 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dbetteb/early-ML/blob/master/12_DEEP_LEARNING/TP2.ipynb)
@@ -13,3 +13,6 @@ Definition of the lab given in the pdf file  (TP2-DL-Ensai.pdf and TP4_GAN.pdf)
 
 ## Generative Adersarial Networks - GAN Solution
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dbetteb/early-ML/blob/master/12_DEEP_LEARNING/TP_GANs_CORRECTIONS.ipynb)
+
+## Time series
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dbetteb/early-ML/blob/master/12_DEEP_LEARNING/Prevision_modeles_fondation_darts_TablCL.ipynb)
